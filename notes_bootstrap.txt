@@ -1,0 +1,60 @@
+words
+compiled
+
+======================================================================================================
+Bootstrap is CSS frame work that helps to design UI IN LESS TIME
+Bootstrap contains predefine css classes 
+linking Bootstrap
+      ecart_ui
+	      |
+	      |----assets
+	      |      |
+	      |      |---css
+	      |      |   |
+	      |      |   |-style.css & bootstrap.min.css
+	      |      |   |
+		  |      | 
+	      |      |---js
+	      |      |   |
+	      |      |   |---main.js &  bootstrap.min.js
+	      |      |
+	      |      |---image
+	      |
+	      |---.html
+	      |---.html
+	      |---.html
+	      |---.html
+	      |
+
+
+Grid 
+intersection of rows and colomns is called as grid
+Need of grid in designing UI
+  With the help of grid html elements can be placed more accurately on the browseer
+  bootstrap provide 12 colimn grid structure i.e. browser width id divided into 12 equal space column
+  
+Breakpoint 
+It is device width in pixcel at which layout changes
+
+CONTAINER
+container is fundamental building block of web page , without container grid structurecannot be formed 
+There are three types of container classes in bootstrap 
+. container 
+. container_breakpoint(xxl md xxl xl , )
+.container fluid
+
+
+=====================================================================================
+06/10
+wHEN YOU SUBMIT A FROM METHOD WILL BE POST
+Margin
+    mb/pb - for classes that set margin-bottom or padding-bottom
+	mt/pt - margin-top
+	ms - (start) for classes that set margin-left or padding-left in LTR, margin-right or padding-right in RTL
+	mx - for classes that set both *-left and *-right
+	ml - for classes that set margin-left or padding-left
+	me - (end) for classes that set margin-right or padding-right in LTR, margin-left or padding-left in RTL
+    mt -  for classes that set margin-top or padding-top
+	my - for classes that set both *-top and *-bottom
+md - medium devices 
+	
